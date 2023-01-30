@@ -12,5 +12,6 @@ public class deom {
         System.out.println("第一次");
         System.out.println("第二次");
         System.out.println("dddddddd");
+        System.out.println("dddddddd");
     }
 }
